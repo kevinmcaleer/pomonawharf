@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+<style type="text/css">
+	#homepage h1 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 34.2855px;
+	line-height: 37.5px;
+	text-transform: uppercase;
+	color: #000000;
+		font-weight: bold;
+	background-color: rgba(255,255,255,0.5);
+}
+	
+	.marketing-col1 {
+  background: rgba(145, 96, 171, 1);
+}
+	.marketing-col2 {
+		background: rgba(149,151,144,1);
+	}
+	.marketing-col3 {
+		background: rgba(93,173,150,1);
+	}
+	#homepage .content-holder {
+  background: #171b2c url("https://raw.githubusercontent.com/kevinmcaleer/pomonawharf/master/woodgrain.png") no-repeat scroll 0 0;
+	background-size: cover;
+}
+	.marketing-section2 {
+  background-image: url("https://raw.githubusercontent.com/kevinmcaleer/pomonawharf/master/skyline.jpg");
+  height: 165px;
+  width: 100%;
+  overflow: hidden;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover !important;
+  position: relative;
+  z-index: 1;
+  padding: 200px 0 100px;
+  text-align: center;
+  color: #ffffff;
+
+	
+</style>
+</head>
+
+<body>
+<h1>POMONA WHARF
+</h1>
+</body>
+</html>
